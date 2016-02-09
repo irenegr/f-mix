@@ -1,6 +1,6 @@
 # f-umix GTK Theme
 
-gtk-color-scheme = "bg_color:#EBE0DE\nfg_color:#555555\nbase_color:#FBFBFB\ntext_color:#333333\nselected_bg_color:#FF4719\nselected_fg_color:#FBFBFB\ntooltip_bg_color:#363442\ntooltip_fg_color:#EBE0DE\ntitlebar_bg_color:#363442\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#363442\nmenubar_fg_color:#dcdcdc\ntoolbar_bg_color:#EBE0DE\ntoolbar_fg_color:#555555\nmenu_bg_color:#363442\nmenu_fg_color:#dcdcdc\npanel_bg_color:#363442\npanel_fg_color:#dcdcdc\nlink_color:#fc6f5d"
+gtk-color-scheme = "bg_color:#EBE0DE\nfg_color:#555555\nbase_color:#FBFBFB\ntext_color:#333333\nselected_bg_color:#6E445C\nselected_fg_color:#FBFBFB\ntooltip_bg_color:#363442\ntooltip_fg_color:#EBE0DE\ntitlebar_bg_color:#363442\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#363442\nmenubar_fg_color:#dcdcdc\ntoolbar_bg_color:#EBE0DE\ntoolbar_fg_color:#555555\nmenu_bg_color:#363442\nmenu_fg_color:#dcdcdc\npanel_bg_color:#363442\npanel_fg_color:#dcdcdc\nlink_color:#fc6f5d"
 
 # Default Style
 

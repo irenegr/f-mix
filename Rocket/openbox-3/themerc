@@ -2,8 +2,8 @@
 
 menu.border.color: #363442
 menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: #FF4719
-menu.items.active.text.color: #363442
+menu.items.active.bg.color: #6E445C
+menu.items.active.text.color: #EEE6E5
 menu.items.bg: Flat
 menu.items.bg.color: #363442
 menu.items.bg.border.color: #363442
