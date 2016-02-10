@@ -1,3 +1,5 @@
+/*Rocket theme by fog*/
+
 /* desktop itens */
 @define-color desktop_item_fg #eeeeee;
 @define-color desktop_item_selected_fg @theme_selected_fg_color;
@@ -6,10 +8,10 @@
 /* default color scheme */
 @define-color bg_color #EBE0DE;
 @define-color fg_color #555555;
-@define-color base_color #FBFBFB;
+@define-color base_color #F8F1F1;
 @define-color text_color #333333;
 @define-color selected_bg_color #6E445C;
-@define-color selected_fg_color #FBFBFB;
+@define-color selected_fg_color #F8F1F1;
 @define-color tooltip_bg_color #363442;
 @define-color tooltip_fg_color #dcdcdc;
 

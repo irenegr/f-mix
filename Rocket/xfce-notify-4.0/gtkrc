@@ -29,9 +29,9 @@ style "notify-button" {
 style "notify-text" {
     GtkWidget::link-color = "#363442"
 
-    fg[NORMAL] = "#FBFBFB"
-    fg[PRELIGHT] = "#FBFBFB"
-    fg[ACTIVE] = "#FBFBFB"
+    fg[NORMAL] = "#F8F1F1"
+    fg[PRELIGHT] = "#F8F1F1"
+    fg[ACTIVE] = "#F8F1F1"
 
     engine "murrine" {
         textstyle = 0
@@ -51,7 +51,7 @@ style "notify-progressbar" {
     bg[SELECTED] = "#EBE0DE"
 
     fg[PRELIGHT] = "#333333"
-    fg[ACTIVE] = "#FBFBFB"
+    fg[ACTIVE] = "#F8F1F1"
     fg[SELECTED] = "#333333"
 
     engine "murrine" {

@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=f-umix
+Name=Rocket
 Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=f-umix
-MetacityTheme=f-umix
+GtkTheme=Rocket
+MetacityTheme=Rocket
