@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=lime
+Name=Lime
 Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=lime
-MetacityTheme=lime
+GtkTheme=Lime
+MetacityTheme=Lime

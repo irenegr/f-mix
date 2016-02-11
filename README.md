@@ -1,5 +1,6 @@
 # f-mix
 numix-based mods by fog
+wallpapers icluded
 
 https://irenegr.wordpress.com/
 
